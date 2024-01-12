@@ -1,4 +1,4 @@
-![노홍철](https://github.com/WONDO-K/WONDO-K/assets/90016509/e1ddde69-bdef-47b3-992d-1e67c29ce8a9)
+![노홍철 뚝배기](https://github.com/WONDO-K/WONDO-K/assets/90016509/6c77604b-57ae-43f8-993e-2bfc2f1e3867)
 
 ### Hi there 👋
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  
