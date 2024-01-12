@@ -7,7 +7,7 @@
 ![WONDO-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=WONDO-K&show_icons=true&theme=dracula)
 
 ### It's My Notion Resume😄
-[![<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">]](https://www.notion.so/f7ffd529196f485baa16309e01891275)
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://www.notion.so/f7ffd529196f485baa16309e01891275)
 
 
 <!--
