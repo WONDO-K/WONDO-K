@@ -6,6 +6,8 @@
 
 ![WONDO-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=WONDO-K&show_icons=true&theme=dracula)
 
+### It's My Notion Resume😄
+[Notion](https://www.notion.so/f7ffd529196f485baa16309e01891275)
 
 
 <!--
