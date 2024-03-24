@@ -1,4 +1,3 @@
-![노뚝배기](https://github.com/WONDO-K/WONDO-K/assets/90016509/3d4c7f5e-7d0a-47e0-905c-936762232088)
 
 
 ### Hi there 👋
