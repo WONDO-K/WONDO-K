@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-![WONDO-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=WONDO-K&show_icons=true&theme=dracula)
+![WONDO-K's GitHub stats](https://github-readme-stats.vercel.app/api?username=wondok95&show_icons=true&theme=dracula)
 
 ### It's My Notion Resume😄
 [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">](https://www.notion.so/f7ffd529196f485baa16309e01891275)
