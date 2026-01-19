@@ -32,11 +32,6 @@
 | **[BanChan](https://github.com/WONDO-K/banchan)** | 온라인 반상회 플랫폼. “주민센터를 웹으로 만들면?”에서 출발 | Spring, WebSocket |
 | **[Auto Code Review Bot](https://github.com/WONDO-K/CodeReview-Test)** | GitHub PR/Push 이벤트를 트리거로 AI가 코드 리뷰를 자동 생성하는 n8n 워크플로우. diff 수집, 프롬프트 조립, 실패 시 재시도/폴백 처리까지 직접 설계 | n8n, GitHub API, Gemini API |
 
-
-
-대부분 “어떻게 하면 더 깔끔해질까?” 하다가  
-설계부터 다시 엎은 흔적들입니다.
-
 ---
 
 ### 📊 GitHub vibes
