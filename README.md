@@ -29,7 +29,7 @@
 |--------|------------|------|
 | **[SSOOKSSOOK](https://github.com/WONDO-K/SsookSsook)** | 아동급식카드 기반 영양 분석 + 결제 서비스. 결제 흐름이랑 SSE 알림 직접 설계 | Spring Boot, MySQL, SSE |
 | **[O-Otd](https://github.com/WONDO-K/O-Otd)** | 2030 남성 대상 AI 스타일 추천 서비스. 인증 구조랑 MSA 쪽을 맡음 | Spring, JWT, Redis |
-| **[BanChan](https://github.com/WONDO-K/banchan)** | 온라인 반상회 플랫폼. “주민센터를 웹으로 만들면?”에서 출발 | Spring, WebSocket |
+| **[BanChan](https://github.com/WONDO-K/banchan)** | 온라인 반상회 플랫폼. “반상회를 온라인으로 한다면?”에서 출발 | Spring, WebSocket |
 | **[Auto Code Review Bot](https://github.com/WONDO-K/CodeReview-Test)** | GitHub PR/Push 이벤트를 트리거로 AI가 코드 리뷰를 자동 생성하는 n8n 워크플로우. diff 수집, 프롬프트 조립, 실패 시 재시도/폴백 처리까지 직접 설계 | n8n, GitHub API, Gemini API |
 
 ---
